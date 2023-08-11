@@ -1,6 +1,6 @@
-# Fitness Manager 
+# پروژه مدیریت پرورش اندام بدنسازی 
 
-## Inspiration
+## مقدمه
 The inspiration behind creating this project stems from the desire to empower users in their fitness journeys and provide administrators with an efficient tool to support and monitor their progress effectively. We wanted to enhance the overall fitness experience and encourage individuals to stay on track with their fitness routines.
 
 ## What it does
